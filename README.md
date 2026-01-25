@@ -14,3 +14,6 @@ Apply best practices used in production ML systems
 
 
 The project is designed following industry best practices, making it suitable for production-ready ML systems.
+
+
+Machine learning Playlist: https://www.youtube.com/playlist?list=PLLlGvoWX-zaEt5VEfvVAszWkGNZN62DsR
